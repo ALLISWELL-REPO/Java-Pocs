@@ -23,5 +23,9 @@ class Student extends Person
 		s.m3();
 		s.m4();
 		s.m5();
+
+		Employee e=new Employee();
+		e.m1();
+		e.m2();
 	}
 }
