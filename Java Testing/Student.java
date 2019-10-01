@@ -21,5 +21,7 @@ class Student extends Person
 		s.m1();
 		s.m2();
 		s.m3();
+		s.m4();
+		s.m5();
 	}
 }
