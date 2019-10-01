@@ -27,5 +27,9 @@ class Student extends Person
 		Employee e=new Employee();
 		e.m1();
 		e.m2();
+
+		Developer d=new Developer();
+		d.m1();
+		d.m2();
 	}
 }
